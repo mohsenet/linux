@@ -5,5 +5,6 @@
 - [datetime_to_english](https://github.com/mohsenet/linux/tree/main/adventures/datetime_to_english)
 - [redis](https://github.com/mohsenet/linux/tree/main/adventures/redis)
 - [update](https://github.com/mohsenet/linux/tree/main/adventures/update)
+- [add service](https://github.com/mohsenet/linux/tree/main/adventures/service)
 
 If you can find useful linux here, I will glad about that.
