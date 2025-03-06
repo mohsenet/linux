@@ -11,7 +11,7 @@ tar -xf firefox-136.0.tar.xz
 # Move the extracted firefox directory to a suitable location, such as /opt:
 sudo mv firefox /opt/
 
-sudo nano /usr/share/applications/firefox.desktop
+sudo vi /usr/share/applications/firefox.desktop
 ```
 ### Add the following content to the file:
 ```ini
