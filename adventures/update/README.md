@@ -1,4 +1,4 @@
-## Update
+### Update
 ```bash
 # update
 sudo apt update
@@ -8,4 +8,9 @@ apt list --upgradable
 sudo apt upgrade
 # to upgrade a specific package
 sudo apt install --only-upgrade google-chrome-stable
+```
+
+### Remove the Problematic Repositories
+```bash
+sudo rm /etc/apt/sources.list.d/UBUNTU_REPOSITORY.list
 ```
