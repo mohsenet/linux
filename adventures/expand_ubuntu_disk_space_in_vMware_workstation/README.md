@@ -18,6 +18,7 @@ sudo fdisk /dev/sda
     d  # Press d and then 3 to delete /dev/sda3
     n  # Press n to create a new partition
        # Do you want to remove the signature? [Y]es/[N]o:  N
+    w  # Write the changes in fdisk by pressing w
 
 sudo reboot
 
