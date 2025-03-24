@@ -17,7 +17,9 @@ lsblk
 sudo fdisk /dev/sda
     d  # Press d and then 3 to delete /dev/sda3
     n  # Press n to create a new partition
-       # Do you want to remove the signature? [Y]es/[N]o:  Y
+       # Do you want to remove the signature? [Y]es/[N]o:  N
+
+sudo reboot
 
 # Resize the Filesystem
 sudo resize2fs /dev/sda3
