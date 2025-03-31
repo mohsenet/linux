@@ -9,5 +9,5 @@
 - [install firefox](https://github.com/mohsenet/linux/tree/main/adventures/install_firefox)
 - [Expand Ubuntu Disk Space in VMware Workstation](https://github.com/mohsenet/linux/tree/main/adventures/expand_ubuntu_disk_space_in_vMware_workstation)
 - [Remove user](https://github.com/mohsenet/linux/tree/main/adventures/remove_user)
-
+- [Install uv](https://github.com/mohsenet/linux/tree/main/adventures/install_uv)
 If you can find useful linux here, I will glad about that.
