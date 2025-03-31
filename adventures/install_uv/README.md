@@ -5,6 +5,10 @@
 ```bash
 sudo apt install curl
 curl -LsSf https://astral.sh/uv/install.sh | sudo sh
+# For regular user's PATH ==> for example mohsen user
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Reopen your terminal and run following command
 uv version
 ```
 
