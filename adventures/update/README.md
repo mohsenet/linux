@@ -21,7 +21,7 @@ sudo rm /etc/apt/sources.list.d/UBUNTU_REPOSITORY.list
 # sudo apt update
 # sudo apt upgrade
 
-# Use a Different UbuntuMirror
+# Use a Different Ubuntu Mirror
 
 sudo apt upgrade --fix-missing
 ```
