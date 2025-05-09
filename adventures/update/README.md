@@ -14,3 +14,12 @@ sudo apt install --only-upgrade google-chrome-stable
 ```bash
 sudo rm /etc/apt/sources.list.d/UBUNTU_REPOSITORY.list
 ```
+
+### Force APT to re-download missing/corrupted packages
+```bash
+# sudo apt clean
+# sudo apt update
+# sudo apt upgrade
+
+sudo apt upgrade --fix-missing
+```
