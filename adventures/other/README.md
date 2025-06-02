@@ -20,3 +20,7 @@ sudo apt install vokoscreen-ng
 vokoscreenNG
 ```
 
+#### Add user to sudoer
+```bash
+sudo visudo
+```
