@@ -23,4 +23,6 @@ vokoscreenNG
 #### Add user to sudoer
 ```bash
 sudo visudo
+# Add following line to the file
+# your_username ALL=(ALL:ALL) ALL
 ```
