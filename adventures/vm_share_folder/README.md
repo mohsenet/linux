@@ -3,6 +3,15 @@
 
 ### Before you do that
 ```bash
+sudo apt install open-vm-tools-desktop
+
+# If you're in a server environment
+sudo apt install open-vm-tools 
+
+# After installation, restart the VMware Tools service
+sudo systemctl restart open-vm-tools
+sudo systemctl status open-vm-tools
+
 # ensure the following folder is exist
 sudo mkdir -p /mnt/hgfs/
 ```
