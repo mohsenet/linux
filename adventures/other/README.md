@@ -26,3 +26,19 @@ sudo visudo
 # Add following line to the file
 # your_username ALL=(ALL:ALL) ALL
 ```
+
+#### jq
+If you want to manipulate with json file, you can use jq command
+```bash
+sudo apt update
+```
+```bash
+sudo apt install jq
+```
+```bash
+jq '.' your_file.json
+```
+What about in Python?
+```bash
+python3 -m json.tool your_file.json
+```
