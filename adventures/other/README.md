@@ -42,3 +42,8 @@ What about in Python?
 ```bash
 python3 -m json.tool your_file.json
 ```
+
+#### du
+```
+du -sh . --exclude='my-frontend' --exclude='.venv'
+```
