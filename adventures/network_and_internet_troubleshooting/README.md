@@ -1,25 +1,25 @@
-bash```
+```bash
 ping -c 4 192.168.1.1
 ```
 
-bash```
+```bash
 ping -c 4 8.8.8.8
 ```
 
-bash```
+```bash
 ping -c 4 google.com
 ```
 
-bash```
+```bash
 cat /etc/resolv.conf
 ```
 
 VMware mac identifier
-bash```
+```bash
 00:0c:29:**:**:**
 ```
 
-bash```
+```bash
 vmware-toolbox-cmd -v
 systemctl status open-vm-tools
 ```
