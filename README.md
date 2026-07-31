@@ -11,5 +11,6 @@
 - [Remove user](https://github.com/mohsenet/linux/tree/main/adventures/remove_user)
 - [Install uv](https://github.com/mohsenet/linux/tree/main/adventures/install_uv)
 - [Other](https://github.com/mohsenet/linux/tree/main/adventures/other)
+- [network and internet troubleshooting](https://github.com/mohsenet/linux/tree/main/adventures/network_and_internet_troubleshooting)
 
 If you can find useful linux here, I will glad about that.
