@@ -13,6 +13,7 @@ mkdir -p -m 755 /path/to/dir
 ```bash
 export PATH="$PATH:/opt/app/bin"
 ```
+---
 
 ##### Screen Record in Linux
 ```bash
@@ -20,12 +21,16 @@ sudo apt install vokoscreen-ng
 vokoscreenNG
 ```
 
+---
+
 #### Add user to sudoer
 ```bash
 sudo visudo
 # Add following line to the file
 # your_username ALL=(ALL:ALL) ALL
 ```
+
+---
 
 #### jq
 If you want to manipulate with json file, you can use jq command
@@ -43,7 +48,16 @@ What about in Python?
 python3 -m json.tool your_file.json
 ```
 
+---
+
 #### du
-```
+```bash
 du -sh . --exclude='my-frontend' --exclude='.venv'
+```
+
+---
+
+#### `/mnt` and `shared folder`
+```bash
+sudo mount -t cifs //192.168.1.39/SHARED_FOLDER /mnt/FOLDER_NAME -o username=USER,password=PASSWORD,uid=1000,gid=1000,iocharset=utf8
 ```
