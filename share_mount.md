@@ -5,7 +5,7 @@ sudo vi /etc/smb-credentials
 
 Enter the following content:
 ```text
-username=Taha
+username=user
 password=password
 ```
 
