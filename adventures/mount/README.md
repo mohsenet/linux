@@ -1,3 +1,4 @@
+# [1]
 Create a credentials file (avoid writing the password in plaintext in fstab)
 ```bash
 sudo vi /etc/smb-credentials
@@ -51,3 +52,13 @@ services:
     volume:
         - /mnt/SHARED_FOLDER:SHARED_FOLDER
 ```
+
+# [2]
+#### mount not work, remount again
+```bash
+sudo mount -v /mnt/SHARED_FOLDER
+```
+```bash
+sudo mount -av
+```
+

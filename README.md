@@ -12,5 +12,6 @@
 - [Install uv](https://github.com/mohsenet/linux/tree/main/adventures/install_uv)
 - [Other](https://github.com/mohsenet/linux/tree/main/adventures/other)
 - [network and internet troubleshooting](https://github.com/mohsenet/linux/tree/main/adventures/network_and_internet_troubleshooting)
+- [mount](https://github.com/mohsenet/linux/tree/main/adventures/mount)
 
 If you can find useful linux here, I will glad about that.
