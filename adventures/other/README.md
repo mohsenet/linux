@@ -62,7 +62,9 @@ du -sh . --exclude='my-frontend' --exclude='.venv'
 sudo mount -t cifs //192.168.1.39/SHARED_FOLDER /mnt/FOLDER_NAME -o username=USER,password=PASSWORD,uid=1000,gid=1000,iocharset=utf8
 ```
 
-Go to root
+---
+
+#### Go to root
 ```bash
 sudo -i
 ```
