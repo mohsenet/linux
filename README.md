@@ -13,6 +13,7 @@
 - [access linux local from windows browser](https://github.com/mohsenet/linux/tree/main/adventures/access_linux_local_from_windows_browser)
 - [network and internet troubleshooting](https://github.com/mohsenet/linux/tree/main/adventures/network_and_internet_troubleshooting)
 - [mount](https://github.com/mohsenet/linux/tree/main/adventures/mount)
+- [repair firefox](https://github.com/mohsenet/linux/tree/main/adventures/repair_firefox)
 - [Other](https://github.com/mohsenet/linux/tree/main/adventures/other)
 
 If you can find useful linux here, I will glad about that.
