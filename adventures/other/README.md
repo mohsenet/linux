@@ -80,7 +80,7 @@ cat /etc/os-release
 
 ---
 
-### inspect the available resources and Docker environment:
+### inspect the available resources and Docker environment for `AI` project:
 ```bash
 lscpu
 ```
