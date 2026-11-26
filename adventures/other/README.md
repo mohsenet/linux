@@ -64,6 +64,21 @@ sudo mount -t cifs //192.168.1.39/SHARED_FOLDER /mnt/FOLDER_NAME -o username=USE
 
 ---
 
+```bash
+lsb_release -a
+```
+```bash
+hostnamectl
+```
+```bash
+cat /etc/issue
+```
+```bash
+cat /etc/os-release
+```
+
+---
+
 #### Go to root
 ```bash
 sudo -i
