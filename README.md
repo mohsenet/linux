@@ -10,8 +10,9 @@
 - [Expand Ubuntu Disk Space in VMware Workstation](https://github.com/mohsenet/linux/tree/main/adventures/expand_ubuntu_disk_space_in_vMware_workstation)
 - [Remove user](https://github.com/mohsenet/linux/tree/main/adventures/remove_user)
 - [Install uv](https://github.com/mohsenet/linux/tree/main/adventures/install_uv)
-- [Other](https://github.com/mohsenet/linux/tree/main/adventures/other)
+- [access linux local from windows browser](https://github.com/mohsenet/linux/tree/main/adventures/access_linux_local_from_windows_browser)
 - [network and internet troubleshooting](https://github.com/mohsenet/linux/tree/main/adventures/network_and_internet_troubleshooting)
 - [mount](https://github.com/mohsenet/linux/tree/main/adventures/mount)
+- [Other](https://github.com/mohsenet/linux/tree/main/adventures/other)
 
 If you can find useful linux here, I will glad about that.
