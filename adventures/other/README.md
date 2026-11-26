@@ -80,6 +80,31 @@ cat /etc/os-release
 
 ---
 
+### inspect the available resources and Docker environment:
+```bash
+lscpu
+```
+```bash
+free -h
+```
+```bash
+df -h
+```
+```bash
+docker version
+```
+```bash
+docker compose version
+```
+```bash
+nvidia-smi
+```
+```bash
+ss -lnt | grep ':8088'
+```
+
+---
+
 #### Go to root
 ```bash
 sudo -i
