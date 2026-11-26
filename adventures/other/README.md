@@ -64,6 +64,7 @@ sudo mount -t cifs //192.168.1.39/SHARED_FOLDER /mnt/FOLDER_NAME -o username=USE
 
 ---
 
+### Host name and Linux version
 ```bash
 lsb_release -a
 ```
