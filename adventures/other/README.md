@@ -110,3 +110,8 @@ ss -lnt | grep ':8088'
 sudo -i
 ```
 
+### Other
+```bash
+sed -i 's/^RAG_DEVICE=.*/RAG_DEVICE=gpu/' .env
+```
+
